@@ -1,0 +1,101 @@
+[33mcommit 7045af42adfd26cb70fdbbc241b3623d99d5e3dd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 5fb2666 8359193
+Author: fuxiao <fuxiao@aikucun.com>
+Date:   Fri Jul 5 16:59:13 2019 +0800
+
+    merge branch 'dev'
+
+[33mcommit 835919345c0d9f311dba64cbd574cb340c96c38a[m
+Author: fuxiao <fuxiao@aikucun.com>
+Date:   Fri Jul 5 16:57:46 2019 +0800
+
+    finish
+
+[33mcommit 5fb2666462ff6565b4362fe8442d35ab14d46f25[m
+Merge: 5bc05b9 a8ecacd
+Author: fuxiao <fuxiao@aikucun.com>
+Date:   Fri Jul 5 16:00:36 2019 +0800
+
+    Merge branch 'issue-1'
+    
+    sdsfsfsf
+
+[33mcommit a8ecacd346bc2f71f3d8eb683cecd738edbe1e14[m
+Author: fuxiao <fuxiao@aikucun.com>
+Date:   Fri Jul 5 15:59:53 2019 +0800
+
+    fix bug 1
+
+[33mcommit 5bc05b93a31a6caa705b5b4db9dce92f9dbbb42f[m
+Merge: 39518d0 df55a4e
+Author: fuxiao <fuxiao@aikucun.com>
+Date:   Fri Jul 5 15:47:54 2019 +0800
+
+    merge with no-ff
+
+[33mcommit df55a4ee367c710f2be28f4ff01d97658edf9c47[m[33m ([m[1;33mtag: v1.0[m[33m)[m
+Author: fuxiao <fuxiao@aikucun.com>
+Date:   Fri Jul 5 15:44:50 2019 +0800
+
+    add 222
+
+[33mcommit 39518d0344534afeefaa027ea96e92af01b95f98[m
+Merge: 6ebff50 234e912
+Author: fuxiao <fuxiao@aikucun.com>
+Date:   Fri Jul 5 15:34:48 2019 +0800
+
+    confict fixed
+
+[33mcommit 6ebff504ed37af24395846636e61f10e23e6ec48[m
+Author: fuxiao <fuxiao@aikucun.com>
+Date:   Fri Jul 5 15:30:38 2019 +0800
+
+    000 add 222
+
+[33mcommit 234e9128992f7220bacbd6d867d13b9a52a3e27a[m
+Author: fuxiao <fuxiao@aikucun.com>
+Date:   Fri Jul 5 15:29:31 2019 +0800
+
+    000 add 111
+
+[33mcommit cb943144a9ba6a74898f4aeb0b978051603b17b8[m
+Author: fuxiao <fuxiao@aikucun.com>
+Date:   Fri Jul 5 15:22:56 2019 +0800
+
+    add new file from github
+
+[33mcommit 06b6696f21a3d0c3fb54e1682f9e52fe3a1a0fee[m
+Author: fuxiao <fuxiao@aikucun.com>
+Date:   Fri Jul 5 15:11:24 2019 +0800
+
+    branch test
+
+[33mcommit 077c357f6eb0913e8747aa14bd6f8056b6fd3a83[m
+Author: fuxiao <fuxiao@aikucun.com>
+Date:   Fri Jul 5 14:13:59 2019 +0800
+
+    add rmtest1 file
+
+[33mcommit dbd5bb19ed83849325411ceb642e354352205a85[m
+Author: fuxiao <fuxiao@aikucun.com>
+Date:   Fri Jul 5 11:47:48 2019 +0800
+
+    add 999 on line4 in gittest1
+
+[33mcommit 2a25f221e67f91e9e80d540a31310b25db77c684[m
+Author: fuxiao <fuxiao@aikucun.com>
+Date:   Fri Jul 5 11:42:26 2019 +0800
+
+    add 678 on line 3 in gittest1,add new gittest file:gittest2
+
+[33mcommit c1a77c672889b669bfc8e9a39dac6c56d7390001[m
+Author: fuxiao <fuxiao@aikucun.com>
+Date:   Fri Jul 5 11:19:25 2019 +0800
+
+    add 123 on line 2
+
+[33mcommit f246c4c0338e9c10329b2fae5279ee5508f333ea[m
+Author: fuxiao <fuxiao@aikucun.com>
+Date:   Fri Jul 5 11:16:01 2019 +0800
+
+    add file
